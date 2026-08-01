@@ -1,0 +1,30 @@
+[
+    {
+        "online": "1188",
+        "maxonline": "1300",
+        "color": "0000FF",
+        "x2": "true",
+        "key": "1424",
+        "name": "LSRP 01",
+        "firstname": "SERVER 01",
+        "secondname": "",
+        "url": "moscow.blackrussia.online",
+        "ip": "188.127.241.74",
+        "port": "1045"
+
+    },
+    {
+        "online": "40",
+        "maxonline": "1300",
+        "color": "FFFF00",
+        "x2": "true",
+        "key": "1424",
+        "name": "TEST SERVER",
+        "firstname": "TEST SERVER",
+        "secondname": "",
+        "url": "blue.blackrussia.online",
+        "ip": "188.127.241.74",
+        "port": "4031"
+
+    }
+]
